@@ -5,6 +5,6 @@ public class TernaryOperator {
         int num; //create variable
         Scanner input = new Scanner(System.in);
         num = input.nextInt();
-        System.out.println(num%2==0? "Ever numer":"Odd number");
+        System.out.println(num%2==0? "Ever numer":"Odd number"); // print
     }
 }
