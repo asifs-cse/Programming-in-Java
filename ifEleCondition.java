@@ -1,4 +1,4 @@
-package ControlStatement;
+
 import java.util.Scanner;
 public class ifEleCondition {
     public static void main(String arge[]){
