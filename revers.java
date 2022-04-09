@@ -4,7 +4,7 @@ import java.io.InputStreamReader;
 public class revers {
     public static void main(String args[]) throws Exception{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in)); //input object
-        String str1, str2="";
+        String str1, str2=""; // variable
         int i;
         str1 = br.readLine(); 
         char ch[]=str1.toCharArray();
