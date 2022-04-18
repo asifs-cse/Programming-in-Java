@@ -3,7 +3,7 @@ class Employee{
 }
 public class inheritance extends Employee{
     int bonus = 10000;
-    public static void main(String args){
+    public static void main(String args[]){
 
         inheritance p = new inheritance();
 
